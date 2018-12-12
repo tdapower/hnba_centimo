@@ -1,0 +1,39 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title></title>
+    <script src="../../Scripts/jquery-3.1.1.min.js"></script>
+    <script src="../../Scripts/unslider-min.js"></script>
+    <link href="../../Styles/unslider.css" rel="stylesheet" />
+
+    <script>
+        jQuery(document).ready(function ($) {
+            $('.my-slider').unslider({
+                autoplay: true,
+                infinite: true,
+                delay:60000
+            }
+            );
+
+        });
+
+    </script>
+</head>
+<body style="background-color:black;">
+    <div class="my-slider">
+        <ul>
+            <li>
+                <object type="text/html" data="MainDashboard.aspx" width="100%" height="1500px" style="overflow:auto;"></object>
+            </li>
+            <li>
+                <object type="text/html" data="JobStatusDashboard.aspx" width="100%" height="1500px" style="overflow:auto;"></object>
+      
+            </li>
+            <li>
+                <object type="text/html" data="ActiveJobsDashboard.aspx" width="100%" height="1500px" style="overflow:auto;"></object>
+
+            </li>
+        </ul>
+    </div>
+</body>
+</html>

@@ -1,0 +1,86 @@
+﻿.myGridStyle {
+    border-collapse: collapse;
+}
+
+    .myGridStyle tr th {
+        padding: 8px;
+        color: white;
+        border: 1px solid black;
+        font-size: large;
+    }
+
+
+    .myGridStyle tr:nth-child(even) {
+        background-color: #E1FFEF;
+    }
+
+    .myGridStyle tr:nth-child(odd) {
+        background-color: #0099FF;
+    }
+
+    .myGridStyle td {
+        border: 1px solid black;
+        padding: 8px;
+        font-size: large;
+        text-align: center;
+        font-weight: bold;
+    }
+
+    .myGridStyle tr:last-child td {
+    }
+
+    .myGridStyle tr td:first-child {
+        background-color: #0066FF;
+        font-weight: bold;
+        text-align: left;
+        color:white;
+    }
+
+    .myGridStyle tr:first-child {
+        background-color: #0066FF;
+        font-weight: bold;
+    }
+
+    .myGridStyle-small {
+    border-collapse: collapse;
+}
+
+    .myGridStyle-small tr th {
+        padding: 4px;
+        color: white;
+        border: 1px solid black;
+        font-size: small;
+    }
+
+
+    .myGridStyle-small tr:nth-child(even) {
+        background-color: #E1FFEF;
+    }
+
+    .myGridStyle-small tr:nth-child(odd) {
+        background-color: #0099FF;
+    }
+
+    .myGridStyle-small td {
+        border: 1px solid black;
+        padding: 4px;
+        font-size: small;
+        text-align: center;
+        font-weight: bold;
+    }
+
+    .myGridStyle-small tr:last-child td {
+    }
+
+    /*.myGridStyle-small tr td:first-child {
+        background-color: #0066FF;
+        font-weight: bold;
+        text-align: left;
+        color:white;
+    }*/
+
+    /*.myGridStyle-small tr:first-child {
+        background-color: #0066FF;
+        font-weight: bold;
+    }*/
+

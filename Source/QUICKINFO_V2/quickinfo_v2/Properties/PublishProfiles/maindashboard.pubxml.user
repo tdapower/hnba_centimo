@@ -1,0 +1,1660 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit http://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <_PublishTargetUrl>\\192.168.10.103\MNBMainDashboard</_PublishTargetUrl>
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="AdminPanel/MainMenuSetup.aspx">
+      <publishTime>04/04/2014 11:23:40</publishTime>
+    </File>
+    <File Include="AdminPanel/MenuPrivilegeAssignToUserRoles.aspx">
+      <publishTime>04/04/2014 11:23:40</publishTime>
+    </File>
+    <File Include="AdminPanel/SubMenuSetup.aspx">
+      <publishTime>04/04/2014 11:23:40</publishTime>
+    </File>
+    <File Include="AdminPanel/UserAdminDashboard.aspx">
+      <publishTime>04/04/2014 11:23:40</publishTime>
+    </File>
+    <File Include="AdminPanel/UserRegistration.aspx">
+      <publishTime>10/13/2016 10:49:32</publishTime>
+    </File>
+    <File Include="AdminPanel/UserRoleSetup.aspx">
+      <publishTime>04/04/2014 11:23:40</publishTime>
+    </File>
+    <File Include="bin/AjaxControlToolkit.dll">
+      <publishTime>05/11/2013 12:15:15</publishTime>
+    </File>
+    <File Include="bin/ar/AjaxControlToolkit.resources.dll">
+      <publishTime>05/11/2013 12:15:15</publishTime>
+    </File>
+    <File Include="bin/cs/AjaxControlToolkit.resources.dll">
+      <publishTime>05/11/2013 12:15:15</publishTime>
+    </File>
+    <File Include="bin/de/AjaxControlToolkit.resources.dll">
+      <publishTime>05/11/2013 12:15:15</publishTime>
+    </File>
+    <File Include="bin/es/AjaxControlToolkit.resources.dll">
+      <publishTime>05/11/2013 12:15:15</publishTime>
+    </File>
+    <File Include="bin/fr/AjaxControlToolkit.resources.dll">
+      <publishTime>05/11/2013 12:15:15</publishTime>
+    </File>
+    <File Include="bin/he/AjaxControlToolkit.resources.dll">
+      <publishTime>05/11/2013 12:15:15</publishTime>
+    </File>
+    <File Include="bin/hi/AjaxControlToolkit.resources.dll">
+      <publishTime>05/11/2013 12:15:15</publishTime>
+    </File>
+    <File Include="bin/it/AjaxControlToolkit.resources.dll">
+      <publishTime>05/11/2013 12:15:15</publishTime>
+    </File>
+    <File Include="bin/iTextSharp.dll">
+      <publishTime>07/30/2015 10:24:33</publishTime>
+    </File>
+    <File Include="bin/ja/AjaxControlToolkit.resources.dll">
+      <publishTime>05/11/2013 12:15:15</publishTime>
+    </File>
+    <File Include="bin/ko/AjaxControlToolkit.resources.dll">
+      <publishTime>05/11/2013 12:15:15</publishTime>
+    </File>
+    <File Include="bin/Microsoft.AspNet.SignalR.Core.dll">
+      <publishTime>11/22/2016 16:51:12</publishTime>
+    </File>
+    <File Include="bin/Microsoft.AspNet.SignalR.SystemWeb.dll">
+      <publishTime>11/22/2016 16:51:13</publishTime>
+    </File>
+    <File Include="bin/Microsoft.CSharp.dll">
+      <publishTime>09/26/2012 03:16:08</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Owin.dll">
+      <publishTime>11/22/2016 16:51:12</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Owin.Host.SystemWeb.dll">
+      <publishTime>11/22/2016 16:51:12</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Owin.Security.dll">
+      <publishTime>11/22/2016 16:51:12</publishTime>
+    </File>
+    <File Include="bin/Microsoft.ReportViewer.Common.dll">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="bin/Microsoft.ReportViewer.WebForms.dll">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Web.Infrastructure.dll">
+      <publishTime>04/04/2014 11:23:39</publishTime>
+    </File>
+    <File Include="bin/Newtonsoft.Json.dll">
+      <publishTime>11/22/2016 16:57:47</publishTime>
+    </File>
+    <File Include="bin/nl/AjaxControlToolkit.resources.dll">
+      <publishTime>05/11/2013 12:15:15</publishTime>
+    </File>
+    <File Include="bin/Oracle.DataAccess.dll">
+      <publishTime>02/28/2010 02:19:56</publishTime>
+    </File>
+    <File Include="bin/Owin.dll">
+      <publishTime>11/22/2016 16:51:12</publishTime>
+    </File>
+    <File Include="bin/pt/AjaxControlToolkit.resources.dll">
+      <publishTime>05/11/2013 12:15:15</publishTime>
+    </File>
+    <File Include="bin/quickinfo_v2.dll">
+      <publishTime>07/06/2018 11:31:04</publishTime>
+    </File>
+    <File Include="bin/ru/AjaxControlToolkit.resources.dll">
+      <publishTime>05/11/2013 12:15:15</publishTime>
+    </File>
+    <File Include="bin/SignalR.dll">
+      <publishTime>04/04/2014 11:23:39</publishTime>
+    </File>
+    <File Include="bin/SignalR.Hosting.AspNet.dll">
+      <publishTime>04/04/2014 11:23:40</publishTime>
+    </File>
+    <File Include="bin/System.ComponentModel.DataAnnotations.dll">
+      <publishTime>09/26/2012 03:16:08</publishTime>
+    </File>
+    <File Include="bin/System.Configuration.dll">
+      <publishTime>09/26/2012 03:16:08</publishTime>
+    </File>
+    <File Include="bin/System.Data.DataSetExtensions.dll">
+      <publishTime>09/26/2012 03:16:08</publishTime>
+    </File>
+    <File Include="bin/System.Data.dll">
+      <publishTime>09/26/2012 03:16:08</publishTime>
+    </File>
+    <File Include="bin/System.Data.OracleClient.dll">
+      <publishTime>09/26/2012 03:16:08</publishTime>
+    </File>
+    <File Include="bin/System.DirectoryServices.dll">
+      <publishTime>09/26/2012 03:16:08</publishTime>
+    </File>
+    <File Include="bin/System.dll">
+      <publishTime>09/26/2012 03:16:08</publishTime>
+    </File>
+    <File Include="bin/System.Drawing.dll">
+      <publishTime>09/26/2012 03:16:08</publishTime>
+    </File>
+    <File Include="bin/System.EnterpriseServices.dll">
+      <publishTime>09/26/2012 03:16:08</publishTime>
+    </File>
+    <File Include="bin/System.Web.ApplicationServices.dll">
+      <publishTime>09/26/2012 03:16:08</publishTime>
+    </File>
+    <File Include="bin/System.Web.dll">
+      <publishTime>09/26/2012 03:16:08</publishTime>
+    </File>
+    <File Include="bin/System.Web.DynamicData.dll">
+      <publishTime>09/26/2012 03:16:08</publishTime>
+    </File>
+    <File Include="bin/System.Web.Entity.dll">
+      <publishTime>09/26/2012 03:16:08</publishTime>
+    </File>
+    <File Include="bin/System.Web.Extensions.dll">
+      <publishTime>09/26/2012 03:16:08</publishTime>
+    </File>
+    <File Include="bin/System.Web.Services.dll">
+      <publishTime>09/26/2012 03:16:08</publishTime>
+    </File>
+    <File Include="bin/System.Xml.dll">
+      <publishTime>09/26/2012 03:16:08</publishTime>
+    </File>
+    <File Include="bin/System.Xml.Linq.dll">
+      <publishTime>09/26/2012 03:16:08</publishTime>
+    </File>
+    <File Include="bin/Telerik.Web.UI.dll">
+      <publishTime>11/07/2011 15:47:56</publishTime>
+    </File>
+    <File Include="bin/tr-TR/AjaxControlToolkit.resources.dll">
+      <publishTime>05/11/2013 12:15:15</publishTime>
+    </File>
+    <File Include="bin/zh-CHS/AjaxControlToolkit.resources.dll">
+      <publishTime>05/11/2013 12:15:15</publishTime>
+    </File>
+    <File Include="bin/zh-CHT/AjaxControlToolkit.resources.dll">
+      <publishTime>05/11/2013 12:15:15</publishTime>
+    </File>
+    <File Include="ClassDiagram1.cd">
+      <publishTime>08/19/2015 16:32:21</publishTime>
+    </File>
+    <File Include="CommonMethods.aspx">
+      <publishTime>04/04/2014 11:23:33</publishTime>
+    </File>
+    <File Include="Dashboard.aspx">
+      <publishTime>04/04/2014 11:23:36</publishTime>
+    </File>
+    <File Include="Images/dddd.jpg">
+      <publishTime>12/12/2017 16:41:05</publishTime>
+    </File>
+    <File Include="Images/gi transparent.png">
+      <publishTime>05/11/2015 09:33:39</publishTime>
+    </File>
+    <File Include="Images/ImageUpload.gif">
+      <publishTime>04/04/2014 11:25:15</publishTime>
+    </File>
+    <File Include="index.aspx">
+      <publishTime>02/07/2015 15:26:56</publishTime>
+    </File>
+    <File Include="lib/Newtonsoft.Json.dll">
+      <publishTime>04/04/2014 11:23:38</publishTime>
+    </File>
+    <File Include="lib/SignalR.dll">
+      <publishTime>04/04/2014 11:23:39</publishTime>
+    </File>
+    <File Include="lib/SignalR.Hosting.AspNet.dll">
+      <publishTime>04/04/2014 11:23:40</publishTime>
+    </File>
+    <File Include="lib/SignalR.Hosting.Common.dll">
+      <publishTime>04/04/2014 11:23:39</publishTime>
+    </File>
+    <File Include="Logo.aspx">
+      <publishTime>09/15/2017 16:17:56</publishTime>
+    </File>
+    <File Include="MasterPage.Master">
+      <publishTime>02/09/2018 13:23:25</publishTime>
+    </File>
+    <File Include="NoPermission.aspx">
+      <publishTime>07/28/2015 09:15:45</publishTime>
+    </File>
+    <File Include="NotificationAdminView.aspx">
+      <publishTime>11/25/2016 12:00:37</publishTime>
+    </File>
+    <File Include="packages.config">
+      <publishTime>11/22/2016 16:57:48</publishTime>
+    </File>
+    <File Include="Scripts/Blockly/blockly_compressed.js">
+      <publishTime>07/04/2014 11:17:35</publishTime>
+    </File>
+    <File Include="Scripts/Blockly/blocks_compressed.js">
+      <publishTime>07/04/2014 12:34:26</publishTime>
+    </File>
+    <File Include="Scripts/Blockly/msg/js/ar.js">
+      <publishTime>07/04/2014 11:19:12</publishTime>
+    </File>
+    <File Include="Scripts/Blockly/msg/js/az-latn.js">
+      <publishTime>07/04/2014 11:19:12</publishTime>
+    </File>
+    <File Include="Scripts/Blockly/msg/js/az.js">
+      <publishTime>07/04/2014 11:19:12</publishTime>
+    </File>
+    <File Include="Scripts/Blockly/msg/js/ca.js">
+      <publishTime>07/04/2014 11:19:12</publishTime>
+    </File>
+    <File Include="Scripts/Blockly/msg/js/cs.js">
+      <publishTime>07/04/2014 11:19:12</publishTime>
+    </File>
+    <File Include="Scripts/Blockly/msg/js/da.js">
+      <publishTime>07/04/2014 11:19:12</publishTime>
+    </File>
+    <File Include="Scripts/Blockly/msg/js/de.js">
+      <publishTime>07/04/2014 11:19:12</publishTime>
+    </File>
+    <File Include="Scripts/Blockly/msg/js/el.js">
+      <publishTime>07/04/2014 11:19:12</publishTime>
+    </File>
+    <File Include="Scripts/Blockly/msg/js/en.js">
+      <publishTime>07/04/2014 11:19:12</publishTime>
+    </File>
+    <File Include="Scripts/Blockly/msg/js/en_us.js">
+      <publishTime>07/04/2014 11:19:12</publishTime>
+    </File>
+    <File Include="Scripts/Blockly/msg/js/es.js">
+      <publishTime>07/04/2014 11:19:12</publishTime>
+    </File>
+    <File Include="Scripts/Blockly/msg/js/fa.js">
+      <publishTime>07/04/2014 11:19:12</publishTime>
+    </File>
+    <File Include="Scripts/Blockly/msg/js/fi.js">
+      <publishTime>07/04/2014 11:19:12</publishTime>
+    </File>
+    <File Include="Scripts/Blockly/msg/js/fr.js">
+      <publishTime>07/04/2014 11:19:12</publishTime>
+    </File>
+    <File Include="Scripts/Blockly/msg/js/he.js">
+      <publishTime>07/04/2014 11:19:12</publishTime>
+    </File>
+    <File Include="Scripts/Blockly/msg/js/hrx.js">
+      <publishTime>07/04/2014 11:19:13</publishTime>
+    </File>
+    <File Include="Scripts/Blockly/msg/js/hu.js">
+      <publishTime>07/04/2014 11:19:13</publishTime>
+    </File>
+    <File Include="Scripts/Blockly/msg/js/id.js">
+      <publishTime>07/04/2014 11:19:13</publishTime>
+    </File>
+    <File Include="Scripts/Blockly/msg/js/is.js">
+      <publishTime>07/04/2014 11:19:13</publishTime>
+    </File>
+    <File Include="Scripts/Blockly/msg/js/it.js">
+      <publishTime>07/04/2014 11:19:13</publishTime>
+    </File>
+    <File Include="Scripts/Blockly/msg/js/ja.js">
+      <publishTime>07/04/2014 11:19:13</publishTime>
+    </File>
+    <File Include="Scripts/Blockly/msg/js/ko.js">
+      <publishTime>07/04/2014 11:19:13</publishTime>
+    </File>
+    <File Include="Scripts/Blockly/msg/js/ms.js">
+      <publishTime>07/04/2014 11:19:13</publishTime>
+    </File>
+    <File Include="Scripts/Blockly/msg/js/nb.js">
+      <publishTime>07/04/2014 11:19:13</publishTime>
+    </File>
+    <File Include="Scripts/Blockly/msg/js/nl.js">
+      <publishTime>07/04/2014 11:19:13</publishTime>
+    </File>
+    <File Include="Scripts/Blockly/msg/js/no.js">
+      <publishTime>07/04/2014 11:19:13</publishTime>
+    </File>
+    <File Include="Scripts/Blockly/msg/js/pl.js">
+      <publishTime>07/04/2014 11:19:13</publishTime>
+    </File>
+    <File Include="Scripts/Blockly/msg/js/pms.js">
+      <publishTime>07/04/2014 11:19:13</publishTime>
+    </File>
+    <File Include="Scripts/Blockly/msg/js/pt-br.js">
+      <publishTime>07/04/2014 11:19:13</publishTime>
+    </File>
+    <File Include="Scripts/Blockly/msg/js/pt.js">
+      <publishTime>07/04/2014 11:19:13</publishTime>
+    </File>
+    <File Include="Scripts/Blockly/msg/js/ro.js">
+      <publishTime>07/04/2014 11:19:13</publishTime>
+    </File>
+    <File Include="Scripts/Blockly/msg/js/ru.js">
+      <publishTime>07/04/2014 11:19:14</publishTime>
+    </File>
+    <File Include="Scripts/Blockly/msg/js/sq.js">
+      <publishTime>07/04/2014 11:19:14</publishTime>
+    </File>
+    <File Include="Scripts/Blockly/msg/js/sr.js">
+      <publishTime>07/04/2014 11:19:14</publishTime>
+    </File>
+    <File Include="Scripts/Blockly/msg/js/sv.js">
+      <publishTime>07/04/2014 11:19:14</publishTime>
+    </File>
+    <File Include="Scripts/Blockly/msg/js/th.js">
+      <publishTime>07/04/2014 11:19:14</publishTime>
+    </File>
+    <File Include="Scripts/Blockly/msg/js/tl.js">
+      <publishTime>07/04/2014 11:19:14</publishTime>
+    </File>
+    <File Include="Scripts/Blockly/msg/js/tlh.js">
+      <publishTime>07/04/2014 11:19:14</publishTime>
+    </File>
+    <File Include="Scripts/Blockly/msg/js/tr.js">
+      <publishTime>07/04/2014 11:19:14</publishTime>
+    </File>
+    <File Include="Scripts/Blockly/msg/js/uk.js">
+      <publishTime>07/04/2014 11:19:14</publishTime>
+    </File>
+    <File Include="Scripts/Blockly/msg/js/vi.js">
+      <publishTime>07/04/2014 11:19:14</publishTime>
+    </File>
+    <File Include="Scripts/Blockly/msg/js/zh-hans.js">
+      <publishTime>07/04/2014 11:19:14</publishTime>
+    </File>
+    <File Include="Scripts/Blockly/msg/js/zh-hant.js">
+      <publishTime>07/04/2014 11:19:14</publishTime>
+    </File>
+    <File Include="Scripts/Blockly/msg/json/ar.json">
+      <publishTime>07/04/2014 11:19:38</publishTime>
+    </File>
+    <File Include="Scripts/Blockly/msg/json/az.json">
+      <publishTime>07/04/2014 11:19:38</publishTime>
+    </File>
+    <File Include="Scripts/Blockly/msg/json/be-tarask.json">
+      <publishTime>07/04/2014 11:19:38</publishTime>
+    </File>
+    <File Include="Scripts/Blockly/msg/json/br.json">
+      <publishTime>07/04/2014 11:19:38</publishTime>
+    </File>
+    <File Include="Scripts/Blockly/msg/json/ca.json">
+      <publishTime>07/04/2014 11:19:38</publishTime>
+    </File>
+    <File Include="Scripts/Blockly/msg/json/cs.json">
+      <publishTime>07/04/2014 11:19:38</publishTime>
+    </File>
+    <File Include="Scripts/Blockly/msg/json/da.json">
+      <publishTime>07/04/2014 11:19:38</publishTime>
+    </File>
+    <File Include="Scripts/Blockly/msg/json/de.json">
+      <publishTime>07/04/2014 11:19:38</publishTime>
+    </File>
+    <File Include="Scripts/Blockly/msg/json/el.json">
+      <publishTime>07/04/2014 11:19:38</publishTime>
+    </File>
+    <File Include="Scripts/Blockly/msg/json/en.json">
+      <publishTime>07/04/2014 11:19:38</publishTime>
+    </File>
+    <File Include="Scripts/Blockly/msg/json/es.json">
+      <publishTime>07/04/2014 11:19:38</publishTime>
+    </File>
+    <File Include="Scripts/Blockly/msg/json/fa.json">
+      <publishTime>07/04/2014 11:19:39</publishTime>
+    </File>
+    <File Include="Scripts/Blockly/msg/json/fi.json">
+      <publishTime>07/04/2014 11:19:39</publishTime>
+    </File>
+    <File Include="Scripts/Blockly/msg/json/fr.json">
+      <publishTime>07/04/2014 11:19:39</publishTime>
+    </File>
+    <File Include="Scripts/Blockly/msg/json/he.json">
+      <publishTime>07/04/2014 11:19:39</publishTime>
+    </File>
+    <File Include="Scripts/Blockly/msg/json/hi.json">
+      <publishTime>07/04/2014 11:19:39</publishTime>
+    </File>
+    <File Include="Scripts/Blockly/msg/json/hrx.json">
+      <publishTime>07/04/2014 11:19:39</publishTime>
+    </File>
+    <File Include="Scripts/Blockly/msg/json/hu.json">
+      <publishTime>07/04/2014 11:19:39</publishTime>
+    </File>
+    <File Include="Scripts/Blockly/msg/json/ia.json">
+      <publishTime>07/04/2014 11:19:39</publishTime>
+    </File>
+    <File Include="Scripts/Blockly/msg/json/id.json">
+      <publishTime>07/04/2014 11:19:39</publishTime>
+    </File>
+    <File Include="Scripts/Blockly/msg/json/is.json">
+      <publishTime>07/04/2014 11:19:39</publishTime>
+    </File>
+    <File Include="Scripts/Blockly/msg/json/it.json">
+      <publishTime>07/04/2014 11:19:39</publishTime>
+    </File>
+    <File Include="Scripts/Blockly/msg/json/ja.json">
+      <publishTime>07/04/2014 11:19:39</publishTime>
+    </File>
+    <File Include="Scripts/Blockly/msg/json/ko.json">
+      <publishTime>07/04/2014 11:19:39</publishTime>
+    </File>
+    <File Include="Scripts/Blockly/msg/json/lrc.json">
+      <publishTime>07/04/2014 11:19:39</publishTime>
+    </File>
+    <File Include="Scripts/Blockly/msg/json/ms.json">
+      <publishTime>07/04/2014 11:19:39</publishTime>
+    </File>
+    <File Include="Scripts/Blockly/msg/json/nb.json">
+      <publishTime>07/04/2014 11:19:39</publishTime>
+    </File>
+    <File Include="Scripts/Blockly/msg/json/nl.json">
+      <publishTime>07/04/2014 11:19:39</publishTime>
+    </File>
+    <File Include="Scripts/Blockly/msg/json/oc.json">
+      <publishTime>07/04/2014 11:19:40</publishTime>
+    </File>
+    <File Include="Scripts/Blockly/msg/json/pl.json">
+      <publishTime>07/04/2014 11:19:40</publishTime>
+    </File>
+    <File Include="Scripts/Blockly/msg/json/pms.json">
+      <publishTime>07/04/2014 11:19:40</publishTime>
+    </File>
+    <File Include="Scripts/Blockly/msg/json/pt-br.json">
+      <publishTime>07/04/2014 11:19:40</publishTime>
+    </File>
+    <File Include="Scripts/Blockly/msg/json/pt.json">
+      <publishTime>07/04/2014 11:19:40</publishTime>
+    </File>
+    <File Include="Scripts/Blockly/msg/json/qqq.json">
+      <publishTime>07/04/2014 11:19:40</publishTime>
+    </File>
+    <File Include="Scripts/Blockly/msg/json/ro.json">
+      <publishTime>07/04/2014 11:19:40</publishTime>
+    </File>
+    <File Include="Scripts/Blockly/msg/json/ru.json">
+      <publishTime>07/04/2014 11:19:40</publishTime>
+    </File>
+    <File Include="Scripts/Blockly/msg/json/sq.json">
+      <publishTime>07/04/2014 11:19:40</publishTime>
+    </File>
+    <File Include="Scripts/Blockly/msg/json/sr.json">
+      <publishTime>07/04/2014 11:19:40</publishTime>
+    </File>
+    <File Include="Scripts/Blockly/msg/json/sv.json">
+      <publishTime>07/04/2014 11:19:40</publishTime>
+    </File>
+    <File Include="Scripts/Blockly/msg/json/synonyms.json">
+      <publishTime>07/04/2014 11:19:40</publishTime>
+    </File>
+    <File Include="Scripts/Blockly/msg/json/th.json">
+      <publishTime>07/04/2014 11:19:40</publishTime>
+    </File>
+    <File Include="Scripts/Blockly/msg/json/tl.json">
+      <publishTime>07/04/2014 11:19:40</publishTime>
+    </File>
+    <File Include="Scripts/Blockly/msg/json/tlh.json">
+      <publishTime>07/04/2014 11:19:40</publishTime>
+    </File>
+    <File Include="Scripts/Blockly/msg/json/tr.json">
+      <publishTime>07/04/2014 11:19:40</publishTime>
+    </File>
+    <File Include="Scripts/Blockly/msg/json/uk.json">
+      <publishTime>07/04/2014 11:19:40</publishTime>
+    </File>
+    <File Include="Scripts/Blockly/msg/json/vi.json">
+      <publishTime>07/04/2014 11:19:40</publishTime>
+    </File>
+    <File Include="Scripts/Blockly/msg/json/zh-hans.json">
+      <publishTime>07/04/2014 11:19:40</publishTime>
+    </File>
+    <File Include="Scripts/Blockly/msg/json/zh-hant.json">
+      <publishTime>07/04/2014 11:19:41</publishTime>
+    </File>
+    <File Include="Scripts/Blockly/msg/messages.js">
+      <publishTime>07/04/2014 11:19:48</publishTime>
+    </File>
+    <File Include="Scripts/Chart.js">
+      <publishTime>02/20/2016 10:29:32</publishTime>
+    </File>
+    <File Include="Scripts/css3clouds/cloudflare.min.js">
+      <publishTime>09/22/2016 10:01:26</publishTime>
+    </File>
+    <File Include="Scripts/css3clouds/ga.js">
+      <publishTime>09/22/2016 10:01:26</publishTime>
+    </File>
+    <File Include="Scripts/css3clouds/plusone.js">
+      <publishTime>09/22/2016 10:01:26</publishTime>
+    </File>
+    <File Include="Scripts/drop_zone/dropzone-amd-module.js">
+      <publishTime>05/27/2015 11:49:30</publishTime>
+    </File>
+    <File Include="Scripts/drop_zone/dropzone.js">
+      <publishTime>05/27/2015 11:49:30</publishTime>
+    </File>
+    <File Include="Scripts/jquery-1.11.0.js">
+      <publishTime>04/04/2014 16:04:01</publishTime>
+    </File>
+    <File Include="Scripts/jquery-1.4.1.js">
+      <publishTime>04/04/2014 11:25:15</publishTime>
+    </File>
+    <File Include="Scripts/jquery-1.4.1.min.js">
+      <publishTime>04/04/2014 11:25:15</publishTime>
+    </File>
+    <File Include="Scripts/jquery-1.6.4.js">
+      <publishTime>11/22/2016 16:51:30</publishTime>
+    </File>
+    <File Include="Scripts/jquery-1.6.4.min.js">
+      <publishTime>11/22/2016 16:51:30</publishTime>
+    </File>
+    <File Include="Scripts/jquery-1.8.2.js">
+      <publishTime>04/04/2014 11:25:15</publishTime>
+    </File>
+    <File Include="Scripts/jquery-1.9.1.min.js">
+      <publishTime>05/14/2015 16:16:21</publishTime>
+    </File>
+    <File Include="Scripts/jquery-3.1.1.min.js">
+      <publishTime>01/24/2017 14:52:31</publishTime>
+    </File>
+    <File Include="Scripts/jquery-ui.js">
+      <publishTime>04/04/2014 11:25:15</publishTime>
+    </File>
+    <File Include="Scripts/jquery.alerts.js">
+      <publishTime>12/30/2008 02:07:50</publishTime>
+    </File>
+    <File Include="Scripts/jquery.dialogextend.1_0_1.js">
+      <publishTime>04/04/2014 11:25:15</publishTime>
+    </File>
+    <File Include="Scripts/jquery.signalR-2.2.1.js">
+      <publishTime>11/22/2016 16:51:31</publishTime>
+    </File>
+    <File Include="Scripts/jquery.signalR-2.2.1.min.js">
+      <publishTime>11/22/2016 16:51:31</publishTime>
+    </File>
+    <File Include="Scripts/jquery.signalR.js">
+      <publishTime>04/04/2014 11:25:15</publishTime>
+    </File>
+    <File Include="Scripts/jquery.signalR.min.js">
+      <publishTime>04/04/2014 11:25:15</publishTime>
+    </File>
+    <File Include="Scripts/jquery.tablednd.js">
+      <publishTime>04/07/2014 10:23:44</publishTime>
+    </File>
+    <File Include="Scripts/jQuery.tmpl.js">
+      <publishTime>04/04/2014 11:25:15</publishTime>
+    </File>
+    <File Include="Scripts/jquery/1.2.6/jquery.min.js">
+      <publishTime>04/07/2014 16:45:14</publishTime>
+    </File>
+    <File Include="Scripts/jqueryui/1.5.2/jquery-ui.min.js">
+      <publishTime>04/07/2014 16:46:53</publishTime>
+    </File>
+    <File Include="Scripts/jssor.slider.mini.js">
+      <publishTime>10/18/2015 12:20:21</publishTime>
+    </File>
+    <File Include="Scripts/snowman.js">
+      <publishTime>12/21/2016 12:17:50</publishTime>
+    </File>
+    <File Include="Scripts/TweenMax.min.js">
+      <publishTime>07/18/2016 17:34:42</publishTime>
+    </File>
+    <File Include="Scripts/unslider-min.js">
+      <publishTime>01/24/2017 15:11:32</publishTime>
+    </File>
+    <File Include="Service References/DMSServiceReference/quickinfo_v2.DMSServiceReference.AddUserResponse.datasource">
+      <publishTime>11/27/2015 10:26:28</publishTime>
+    </File>
+    <File Include="Service References/DMSServiceReference/quickinfo_v2.DMSServiceReference.BulkDowngradeDocumentsResponse.datasource">
+      <publishTime>11/27/2015 10:26:28</publishTime>
+    </File>
+    <File Include="Service References/DMSServiceReference/quickinfo_v2.DMSServiceReference.CheckAuthentication1Response.datasource">
+      <publishTime>11/27/2015 10:26:31</publishTime>
+    </File>
+    <File Include="Service References/DMSServiceReference/quickinfo_v2.DMSServiceReference.GetAccessUrlResponse.datasource">
+      <publishTime>11/27/2015 10:26:31</publishTime>
+    </File>
+    <File Include="Service References/DMSServiceReference/quickinfo_v2.DMSServiceReference.GetDocumentLinkResponse.datasource">
+      <publishTime>11/27/2015 10:26:31</publishTime>
+    </File>
+    <File Include="Service References/DMSServiceReference/quickinfo_v2.DMSServiceReference.GetDocumentProfileDataResponse.datasource">
+      <publishTime>11/27/2015 10:26:30</publishTime>
+    </File>
+    <File Include="Service References/DMSServiceReference/quickinfo_v2.DMSServiceReference.GetImportProfileDataResponse.datasource">
+      <publishTime>11/27/2015 10:26:30</publishTime>
+    </File>
+    <File Include="Service References/DMSServiceReference/quickinfo_v2.DMSServiceReference.GetIndexPropertyDataResponse.datasource">
+      <publishTime>11/27/2015 10:26:30</publishTime>
+    </File>
+    <File Include="Service References/DMSServiceReference/quickinfo_v2.DMSServiceReference.GetIndexReferencesDataResponse.datasource">
+      <publishTime>11/27/2015 10:26:31</publishTime>
+    </File>
+    <File Include="Service References/DMSServiceReference/quickinfo_v2.DMSServiceReference.GetLibraryDataResponse.datasource">
+      <publishTime>11/27/2015 10:26:29</publishTime>
+    </File>
+    <File Include="Service References/DMSServiceReference/quickinfo_v2.DMSServiceReference.GetRequestTokenResponse.datasource">
+      <publishTime>11/27/2015 10:26:28</publishTime>
+    </File>
+    <File Include="Service References/DMSServiceReference/quickinfo_v2.DMSServiceReference.GetUserGroupsByLibraryIDResponse.datasource">
+      <publishTime>11/27/2015 10:26:30</publishTime>
+    </File>
+    <File Include="Service References/DMSServiceReference/quickinfo_v2.DMSServiceReference.GetUserGroupsByUserResponse.datasource">
+      <publishTime>11/27/2015 10:26:29</publishTime>
+    </File>
+    <File Include="Service References/DMSServiceReference/quickinfo_v2.DMSServiceReference.SearchDocumentResponse.datasource">
+      <publishTime>11/27/2015 10:26:28</publishTime>
+    </File>
+    <File Include="Service References/DMSServiceReference/quickinfo_v2.DMSServiceReference.SearchResponse.datasource">
+      <publishTime>11/27/2015 10:26:28</publishTime>
+    </File>
+    <File Include="Service References/DMSServiceReference/quickinfo_v2.DMSServiceReference.TestConnectionResponse.datasource">
+      <publishTime>11/27/2015 10:26:28</publishTime>
+    </File>
+    <File Include="Service References/DMSServiceReference/quickinfo_v2.DMSServiceReference.UploadDocumentResponse.datasource">
+      <publishTime>11/27/2015 10:26:29</publishTime>
+    </File>
+    <File Include="Styles/css3clouds/cloud.png">
+      <publishTime>09/22/2016 10:01:28</publishTime>
+    </File>
+    <File Include="Styles/css3clouds/css%281%29.css">
+      <publishTime>09/22/2016 10:26:11</publishTime>
+    </File>
+    <File Include="Styles/css3clouds/css.css">
+      <publishTime>09/22/2016 10:01:27</publishTime>
+    </File>
+    <File Include="Styles/dashBoardsStyles/normalize.css">
+      <publishTime>10/20/2015 17:17:21</publishTime>
+    </File>
+    <File Include="Styles/dashBoardsStyles/style.css">
+      <publishTime>10/20/2015 17:22:12</publishTime>
+    </File>
+    <File Include="Styles/DashboardStyle.css">
+      <publishTime>09/22/2015 17:14:14</publishTime>
+    </File>
+    <File Include="Styles/datepicker.min.css">
+      <publishTime>11/21/2014 11:26:11</publishTime>
+    </File>
+    <File Include="Styles/drop_zone/dropzone.css">
+      <publishTime>05/27/2015 11:50:40</publishTime>
+    </File>
+    <File Include="Styles/drop_zone/StyleSheet.css">
+      <publishTime>05/27/2015 11:51:12</publishTime>
+    </File>
+    <File Include="Styles/gridViewStyle.css">
+      <publishTime>09/11/2015 17:39:09</publishTime>
+    </File>
+    <File Include="Styles/images/ui-icons_222222_256x240.png">
+      <publishTime>04/04/2014 11:25:10</publishTime>
+    </File>
+    <File Include="Styles/images/ui-icons_2e83ff_256x240.png">
+      <publishTime>04/04/2014 11:25:10</publishTime>
+    </File>
+    <File Include="Styles/images/ui-icons_454545_256x240.png">
+      <publishTime>04/04/2014 11:25:10</publishTime>
+    </File>
+    <File Include="Styles/images/ui-icons_888888_256x240.png">
+      <publishTime>04/04/2014 11:25:10</publishTime>
+    </File>
+    <File Include="Styles/images/ui-icons_cd0a0a_256x240.png">
+      <publishTime>04/04/2014 11:25:10</publishTime>
+    </File>
+    <File Include="Styles/jquery-ui.css">
+      <publishTime>04/04/2014 11:24:52</publishTime>
+    </File>
+    <File Include="Styles/jquery.alerts.css">
+      <publishTime>01/13/2009 22:19:23</publishTime>
+    </File>
+    <File Include="Styles/neon-x/assets/css/bootstrap.min.css">
+      <publishTime>09/22/2015 13:18:33</publishTime>
+    </File>
+    <File Include="Styles/neon-x/assets/css/custom.css">
+      <publishTime>04/04/2014 11:24:57</publishTime>
+    </File>
+    <File Include="Styles/neon-x/assets/css/font-icons/entypo/css/animation.css">
+      <publishTime>04/04/2014 11:24:56</publishTime>
+    </File>
+    <File Include="Styles/neon-x/assets/css/font-icons/entypo/css/entypo.css">
+      <publishTime>04/04/2014 11:24:56</publishTime>
+    </File>
+    <File Include="Styles/neon-x/assets/css/font-icons/entypo/font/entypo8421.eot">
+      <publishTime>04/04/2014 11:24:56</publishTime>
+    </File>
+    <File Include="Styles/neon-x/assets/css/font-icons/entypo/font/entypo8421.svg">
+      <publishTime>04/04/2014 11:24:56</publishTime>
+    </File>
+    <File Include="Styles/neon-x/assets/css/font-icons/entypo/font/entypo8421.ttf">
+      <publishTime>04/04/2014 11:24:56</publishTime>
+    </File>
+    <File Include="Styles/neon-x/assets/css/font-icons/entypo/font/entypo8421.woff">
+      <publishTime>04/04/2014 11:24:56</publishTime>
+    </File>
+    <File Include="Styles/neon-x/assets/css/font-icons/font-awesome/css/font-awesome.min.css">
+      <publishTime>04/04/2014 11:24:53</publishTime>
+    </File>
+    <File Include="Styles/neon-x/assets/css/font-icons/font-awesome/fonts/fontawesome-webfontba72.eot">
+      <publishTime>04/04/2014 11:24:55</publishTime>
+    </File>
+    <File Include="Styles/neon-x/assets/css/font-icons/font-awesome/fonts/fontawesome-webfontba72.svg">
+      <publishTime>04/04/2014 11:24:55</publishTime>
+    </File>
+    <File Include="Styles/neon-x/assets/css/font-icons/font-awesome/fonts/fontawesome-webfontba72.ttf">
+      <publishTime>04/04/2014 11:24:55</publishTime>
+    </File>
+    <File Include="Styles/neon-x/assets/css/font-icons/font-awesome/fonts/fontawesome-webfontba72.woff">
+      <publishTime>04/04/2014 11:24:55</publishTime>
+    </File>
+    <File Include="Styles/neon-x/assets/css/font-icons/font-awesome/fonts/fontawesome-webfontd41d.eot">
+      <publishTime>04/04/2014 11:24:55</publishTime>
+    </File>
+    <File Include="Styles/neon-x/assets/css/neon.css">
+      <publishTime>03/01/2017 16:55:24</publishTime>
+    </File>
+    <File Include="Styles/neon-x/assets/css/toastr.min.css">
+      <publishTime>11/21/2016 14:59:25</publishTime>
+    </File>
+    <File Include="Styles/neon-x/assets/fonts/glyphicons-halflings-regular.eot">
+      <publishTime>04/04/2014 11:24:58</publishTime>
+    </File>
+    <File Include="Styles/neon-x/assets/fonts/glyphicons-halflings-regular.svg">
+      <publishTime>04/04/2014 11:24:58</publishTime>
+    </File>
+    <File Include="Styles/neon-x/assets/fonts/glyphicons-halflings-regular.ttf">
+      <publishTime>04/04/2014 11:24:58</publishTime>
+    </File>
+    <File Include="Styles/neon-x/assets/fonts/glyphicons-halflings-regular.woff">
+      <publishTime>04/04/2014 11:24:58</publishTime>
+    </File>
+    <File Include="Styles/neon-x/assets/fonts/glyphicons-halflings-regulard41d.eot">
+      <publishTime>04/04/2014 11:24:58</publishTime>
+    </File>
+    <File Include="Styles/neon-x/assets/images/attach-1.png">
+      <publishTime>04/04/2014 11:24:53</publishTime>
+    </File>
+    <File Include="Styles/neon-x/assets/images/attach-2.png">
+      <publishTime>04/04/2014 11:24:53</publishTime>
+    </File>
+    <File Include="Styles/neon-x/assets/images/colorpicker/alpha-horizontal.png">
+      <publishTime>04/04/2014 11:24:53</publishTime>
+    </File>
+    <File Include="Styles/neon-x/assets/images/colorpicker/alpha.png">
+      <publishTime>04/04/2014 11:24:53</publishTime>
+    </File>
+    <File Include="Styles/neon-x/assets/images/colorpicker/hue-horizontal.png">
+      <publishTime>04/04/2014 11:24:53</publishTime>
+    </File>
+    <File Include="Styles/neon-x/assets/images/colorpicker/hue.png">
+      <publishTime>04/04/2014 11:24:53</publishTime>
+    </File>
+    <File Include="Styles/neon-x/assets/images/colorpicker/saturation.png">
+      <publishTime>04/04/2014 11:24:53</publishTime>
+    </File>
+    <File Include="Styles/neon-x/assets/images/laborator.png">
+      <publishTime>04/04/2014 11:24:53</publishTime>
+    </File>
+    <File Include="Styles/neon-x/assets/images/loader-1.gif">
+      <publishTime>04/04/2014 11:24:53</publishTime>
+    </File>
+    <File Include="Styles/neon-x/assets/images/loader-2.gif">
+      <publishTime>04/04/2014 11:24:53</publishTime>
+    </File>
+    <File Include="Styles/neon-x/assets/images/lockscreen-user.png">
+      <publishTime>04/04/2014 11:24:53</publishTime>
+    </File>
+    <File Include="Styles/neon-x/assets/images/logo-horizontal.png">
+      <publishTime>04/04/2014 11:24:53</publishTime>
+    </File>
+    <File Include="Styles/neon-x/assets/images/logo.png">
+      <publishTime>04/04/2014 11:24:53</publishTime>
+    </File>
+    <File Include="Styles/neon-x/assets/images/sample-al.png">
+      <publishTime>04/04/2014 11:24:53</publishTime>
+    </File>
+    <File Include="Styles/neon-x/assets/images/sample-au.png">
+      <publishTime>04/04/2014 11:24:53</publishTime>
+    </File>
+    <File Include="Styles/neon-x/assets/images/sample-it.png">
+      <publishTime>04/04/2014 11:24:53</publishTime>
+    </File>
+    <File Include="Styles/neon-x/assets/images/thumb-1.png">
+      <publishTime>04/04/2014 11:24:53</publishTime>
+    </File>
+    <File Include="Styles/neon-x/assets/images/thumb-2.png">
+      <publishTime>04/04/2014 11:24:53</publishTime>
+    </File>
+    <File Include="Styles/neon-x/assets/images/thumb-3.png">
+      <publishTime>04/04/2014 11:24:53</publishTime>
+    </File>
+    <File Include="Styles/neon-x/assets/images/thumb-4.png">
+      <publishTime>04/04/2014 11:24:53</publishTime>
+    </File>
+    <File Include="Styles/neon-x/assets/js/bootstrap-colorpicker.min.js">
+      <publishTime>04/04/2014 11:25:01</publishTime>
+    </File>
+    <File Include="Styles/neon-x/assets/js/bootstrap-datepicker.js">
+      <publishTime>01/04/2016 11:23:08</publishTime>
+    </File>
+    <File Include="Styles/neon-x/assets/js/bootstrap-switch.min.js">
+      <publishTime>04/04/2014 11:25:08</publishTime>
+    </File>
+    <File Include="Styles/neon-x/assets/js/bootstrap-tagsinput.min.js">
+      <publishTime>04/04/2014 11:24:58</publishTime>
+    </File>
+    <File Include="Styles/neon-x/assets/js/bootstrap-timepicker.min.js">
+      <publishTime>04/04/2014 11:25:03</publishTime>
+    </File>
+    <File Include="Styles/neon-x/assets/js/bootstrap.min.js">
+      <publishTime>04/04/2014 11:25:09</publishTime>
+    </File>
+    <File Include="Styles/neon-x/assets/js/ckeditor/adapters/jquery.js">
+      <publishTime>04/04/2014 11:25:00</publishTime>
+    </File>
+    <File Include="Styles/neon-x/assets/js/ckeditor/ckeditor.js">
+      <publishTime>04/04/2014 11:25:00</publishTime>
+    </File>
+    <File Include="Styles/neon-x/assets/js/dataTables.bootstrap.js">
+      <publishTime>04/04/2014 11:24:58</publishTime>
+    </File>
+    <File Include="Styles/neon-x/assets/js/daterangepicker/daterangepicker-bs3.css">
+      <publishTime>04/04/2014 11:25:01</publishTime>
+    </File>
+    <File Include="Styles/neon-x/assets/js/daterangepicker/daterangepicker.js">
+      <publishTime>04/04/2014 11:25:01</publishTime>
+    </File>
+    <File Include="Styles/neon-x/assets/js/daterangepicker/moment.min.js">
+      <publishTime>04/04/2014 11:25:01</publishTime>
+    </File>
+    <File Include="Styles/neon-x/assets/js/dropzone/dropzone.css">
+      <publishTime>04/04/2014 11:24:58</publishTime>
+    </File>
+    <File Include="Styles/neon-x/assets/js/dropzone/dropzone.js">
+      <publishTime>04/04/2014 11:24:58</publishTime>
+    </File>
+    <File Include="Styles/neon-x/assets/js/dropzone/spritemap%402x.png">
+      <publishTime>04/04/2014 11:24:58</publishTime>
+    </File>
+    <File Include="Styles/neon-x/assets/js/dropzone/spritemap.png">
+      <publishTime>04/04/2014 11:24:58</publishTime>
+    </File>
+    <File Include="Styles/neon-x/assets/js/fileinput.js">
+      <publishTime>04/04/2014 11:25:09</publishTime>
+    </File>
+    <File Include="Styles/neon-x/assets/js/fullcalendar/fullcalendar.min.js">
+      <publishTime>04/04/2014 11:25:01</publishTime>
+    </File>
+    <File Include="Styles/neon-x/assets/js/gsap/main-gsap.js">
+      <publishTime>04/04/2014 11:25:01</publishTime>
+    </File>
+    <File Include="Styles/neon-x/assets/js/joinable.js">
+      <publishTime>04/04/2014 11:24:58</publishTime>
+    </File>
+    <File Include="Styles/neon-x/assets/js/jquery-1.10.2.min.js">
+      <publishTime>04/04/2014 11:24:58</publishTime>
+    </File>
+    <File Include="Styles/neon-x/assets/js/jquery-ui/css/no-theme/jquery-ui-1.10.3.custom.min.css">
+      <publishTime>04/04/2014 11:25:01</publishTime>
+    </File>
+    <File Include="Styles/neon-x/assets/js/jquery-ui/js/jquery-ui-1.10.3.minimal.min.js">
+      <publishTime>04/04/2014 11:25:01</publishTime>
+    </File>
+    <File Include="Styles/neon-x/assets/js/jquery.bootstrap.wizard.min.js">
+      <publishTime>04/04/2014 11:25:01</publishTime>
+    </File>
+    <File Include="Styles/neon-x/assets/js/jquery.dataTables.min.js">
+      <publishTime>04/04/2014 11:24:58</publishTime>
+    </File>
+    <File Include="Styles/neon-x/assets/js/jquery.inputmask.bundle.min.js">
+      <publishTime>04/04/2014 11:25:02</publishTime>
+    </File>
+    <File Include="Styles/neon-x/assets/js/jquery.knob.js">
+      <publishTime>04/04/2014 11:25:01</publishTime>
+    </File>
+    <File Include="Styles/neon-x/assets/js/jquery.multi-select.js">
+      <publishTime>04/04/2014 11:24:58</publishTime>
+    </File>
+    <File Include="Styles/neon-x/assets/js/jquery.peity.min.js">
+      <publishTime>04/04/2014 11:25:03</publishTime>
+    </File>
+    <File Include="Styles/neon-x/assets/js/jquery.responsivetable.js">
+      <publishTime>04/04/2014 11:24:58</publishTime>
+    </File>
+    <File Include="Styles/neon-x/assets/js/jquery.responsivetable.min.js">
+      <publishTime>04/04/2014 11:25:01</publishTime>
+    </File>
+    <File Include="Styles/neon-x/assets/js/jquery.sparkline.min.js">
+      <publishTime>04/04/2014 11:25:03</publishTime>
+    </File>
+    <File Include="Styles/neon-x/assets/js/jquery.validate.min.js">
+      <publishTime>04/04/2014 11:25:01</publishTime>
+    </File>
+    <File Include="Styles/neon-x/assets/js/jvectormap/jquery-jvectormap-1.2.2.css">
+      <publishTime>04/04/2014 11:25:08</publishTime>
+    </File>
+    <File Include="Styles/neon-x/assets/js/jvectormap/jquery-jvectormap-1.2.2.min.js">
+      <publishTime>04/04/2014 11:25:08</publishTime>
+    </File>
+    <File Include="Styles/neon-x/assets/js/jvectormap/jquery-jvectormap-ar-merc-en.js">
+      <publishTime>04/04/2014 11:25:08</publishTime>
+    </File>
+    <File Include="Styles/neon-x/assets/js/jvectormap/jquery-jvectormap-at-merc-en.js">
+      <publishTime>04/04/2014 11:25:08</publishTime>
+    </File>
+    <File Include="Styles/neon-x/assets/js/jvectormap/jquery-jvectormap-au-mill-en.js">
+      <publishTime>04/04/2014 11:25:08</publishTime>
+    </File>
+    <File Include="Styles/neon-x/assets/js/jvectormap/jquery-jvectormap-be-merc-en.js">
+      <publishTime>04/04/2014 11:25:08</publishTime>
+    </File>
+    <File Include="Styles/neon-x/assets/js/jvectormap/jquery-jvectormap-ca-lcc-en.js">
+      <publishTime>04/04/2014 11:25:08</publishTime>
+    </File>
+    <File Include="Styles/neon-x/assets/js/jvectormap/jquery-jvectormap-ch-mill-en.js">
+      <publishTime>04/04/2014 11:25:08</publishTime>
+    </File>
+    <File Include="Styles/neon-x/assets/js/jvectormap/jquery-jvectormap-cn-mill-en.js">
+      <publishTime>04/04/2014 11:25:08</publishTime>
+    </File>
+    <File Include="Styles/neon-x/assets/js/jvectormap/jquery-jvectormap-de-merc-en.js">
+      <publishTime>04/04/2014 11:25:08</publishTime>
+    </File>
+    <File Include="Styles/neon-x/assets/js/jvectormap/jquery-jvectormap-dk-merc-en.js">
+      <publishTime>04/04/2014 11:25:08</publishTime>
+    </File>
+    <File Include="Styles/neon-x/assets/js/jvectormap/jquery-jvectormap-es-merc-en.js">
+      <publishTime>04/04/2014 11:25:08</publishTime>
+    </File>
+    <File Include="Styles/neon-x/assets/js/jvectormap/jquery-jvectormap-europe-merc-en.js">
+      <publishTime>04/04/2014 11:25:08</publishTime>
+    </File>
+    <File Include="Styles/neon-x/assets/js/jvectormap/jquery-jvectormap-fr-merc-en.js">
+      <publishTime>04/04/2014 11:25:08</publishTime>
+    </File>
+    <File Include="Styles/neon-x/assets/js/jvectormap/jquery-jvectormap-it-merc-en.js">
+      <publishTime>04/04/2014 11:25:08</publishTime>
+    </File>
+    <File Include="Styles/neon-x/assets/js/jvectormap/jquery-jvectormap-nl-merc-en.js">
+      <publishTime>04/04/2014 11:25:08</publishTime>
+    </File>
+    <File Include="Styles/neon-x/assets/js/jvectormap/jquery-jvectormap-uk-merc-en.js">
+      <publishTime>04/04/2014 11:25:08</publishTime>
+    </File>
+    <File Include="Styles/neon-x/assets/js/jvectormap/jquery-jvectormap-us-aea-en.js">
+      <publishTime>04/04/2014 11:25:08</publishTime>
+    </File>
+    <File Include="Styles/neon-x/assets/js/jvectormap/jquery-jvectormap-us-ny-newyork-mill-en.js">
+      <publishTime>04/04/2014 11:25:08</publishTime>
+    </File>
+    <File Include="Styles/neon-x/assets/js/jvectormap/jquery-jvectormap-world-mill-en.js">
+      <publishTime>04/04/2014 11:25:08</publishTime>
+    </File>
+    <File Include="Styles/neon-x/assets/js/morris.min.js">
+      <publishTime>04/04/2014 11:25:08</publishTime>
+    </File>
+    <File Include="Styles/neon-x/assets/js/neon-api.js">
+      <publishTime>04/04/2014 11:24:58</publishTime>
+    </File>
+    <File Include="Styles/neon-x/assets/js/neon-calendar.js">
+      <publishTime>04/04/2014 11:25:01</publishTime>
+    </File>
+    <File Include="Styles/neon-x/assets/js/neon-charts.js">
+      <publishTime>04/04/2014 11:24:58</publishTime>
+    </File>
+    <File Include="Styles/neon-x/assets/js/neon-chat.js">
+      <publishTime>10/07/2015 13:14:05</publishTime>
+    </File>
+    <File Include="Styles/neon-x/assets/js/neon-custom.js">
+      <publishTime>11/24/2016 15:34:47</publishTime>
+    </File>
+    <File Include="Styles/neon-x/assets/js/neon-demo.js">
+      <publishTime>04/04/2014 11:24:58</publishTime>
+    </File>
+    <File Include="Styles/neon-x/assets/js/neon-login.js">
+      <publishTime>04/04/2014 11:24:58</publishTime>
+    </File>
+    <File Include="Styles/neon-x/assets/js/neon-mail.js">
+      <publishTime>04/04/2014 11:25:01</publishTime>
+    </File>
+    <File Include="Styles/neon-x/assets/js/raphael-min.js">
+      <publishTime>04/04/2014 11:25:01</publishTime>
+    </File>
+    <File Include="Styles/neon-x/assets/js/resizeable.js">
+      <publishTime>04/04/2014 11:25:02</publishTime>
+    </File>
+    <File Include="Styles/neon-x/assets/js/rickshaw/rickshaw.min.css">
+      <publishTime>04/04/2014 11:25:09</publishTime>
+    </File>
+    <File Include="Styles/neon-x/assets/js/rickshaw/rickshaw.min.js">
+      <publishTime>04/04/2014 11:25:09</publishTime>
+    </File>
+    <File Include="Styles/neon-x/assets/js/rickshaw/vendor/d3.v3.js">
+      <publishTime>04/04/2014 11:25:09</publishTime>
+    </File>
+    <File Include="Styles/neon-x/assets/js/select2/select2-bootstrap.css">
+      <publishTime>04/04/2014 11:25:02</publishTime>
+    </File>
+    <File Include="Styles/neon-x/assets/js/select2/select2-spinner.gif">
+      <publishTime>04/04/2014 11:25:02</publishTime>
+    </File>
+    <File Include="Styles/neon-x/assets/js/select2/select2.css">
+      <publishTime>04/04/2014 11:25:02</publishTime>
+    </File>
+    <File Include="Styles/neon-x/assets/js/select2/select2.min.js">
+      <publishTime>04/04/2014 11:25:02</publishTime>
+    </File>
+    <File Include="Styles/neon-x/assets/js/select2/select2.png">
+      <publishTime>04/04/2014 11:25:02</publishTime>
+    </File>
+    <File Include="Styles/neon-x/assets/js/select2/select2x2.png">
+      <publishTime>04/04/2014 11:25:02</publishTime>
+    </File>
+    <File Include="Styles/neon-x/assets/js/selectboxit/jquery.selectBoxIt.css">
+      <publishTime>04/04/2014 11:25:01</publishTime>
+    </File>
+    <File Include="Styles/neon-x/assets/js/selectboxit/jquery.selectBoxIt.min.js">
+      <publishTime>04/04/2014 11:25:01</publishTime>
+    </File>
+    <File Include="Styles/neon-x/assets/js/toastr.js">
+      <publishTime>04/04/2014 11:25:01</publishTime>
+    </File>
+    <File Include="Styles/neon-x/assets/js/toastr.min.js">
+      <publishTime>11/21/2016 14:59:25</publishTime>
+    </File>
+    <File Include="Styles/neon-x/assets/js/tocify/jquery.tocify.min.js">
+      <publishTime>04/04/2014 11:25:02</publishTime>
+    </File>
+    <File Include="Styles/neon-x/assets/js/typeahead.min.js">
+      <publishTime>04/04/2014 11:25:00</publishTime>
+    </File>
+    <File Include="Styles/neon-x/assets/js/wysihtml5/bootstrap-wysihtml5.css">
+      <publishTime>04/04/2014 11:25:03</publishTime>
+    </File>
+    <File Include="Styles/neon-x/assets/js/wysihtml5/bootstrap-wysihtml5.js">
+      <publishTime>04/04/2014 11:25:03</publishTime>
+    </File>
+    <File Include="Styles/neon-x/assets/js/wysihtml5/wysihtml5-0.4.0pre.min.js">
+      <publishTime>04/04/2014 11:25:03</publishTime>
+    </File>
+    <File Include="Styles/neon-x/dashboard/main-2/index.html">
+      <publishTime>04/04/2014 11:25:09</publishTime>
+    </File>
+    <File Include="Styles/neon-x/dashboard/main/index.html">
+      <publishTime>04/04/2014 11:25:09</publishTime>
+    </File>
+    <File Include="Styles/neon-x/extra/404/index.html">
+      <publishTime>04/04/2014 11:25:09</publishTime>
+    </File>
+    <File Include="Styles/neon-x/extra/blank-page/index.html">
+      <publishTime>04/04/2014 11:25:09</publishTime>
+    </File>
+    <File Include="Styles/neon-x/extra/calendar/index.html">
+      <publishTime>04/04/2014 11:25:09</publishTime>
+    </File>
+    <File Include="Styles/neon-x/extra/charts/index.html">
+      <publishTime>04/04/2014 11:25:09</publishTime>
+    </File>
+    <File Include="Styles/neon-x/extra/chat-api/index.html">
+      <publishTime>04/04/2014 11:25:09</publishTime>
+    </File>
+    <File Include="Styles/neon-x/extra/google-maps/index.html">
+      <publishTime>04/04/2014 11:25:09</publishTime>
+    </File>
+    <File Include="Styles/neon-x/extra/icons-entypo/index.html">
+      <publishTime>04/04/2014 11:25:09</publishTime>
+    </File>
+    <File Include="Styles/neon-x/extra/icons-fontawesome/index.html">
+      <publishTime>04/04/2014 11:25:09</publishTime>
+    </File>
+    <File Include="Styles/neon-x/extra/icons-glyphicons/index.html">
+      <publishTime>04/04/2014 11:25:09</publishTime>
+    </File>
+    <File Include="Styles/neon-x/extra/icons/index.html">
+      <publishTime>04/04/2014 11:25:09</publishTime>
+    </File>
+    <File Include="Styles/neon-x/extra/invoice/index.html">
+      <publishTime>04/04/2014 11:25:09</publishTime>
+    </File>
+    <File Include="Styles/neon-x/extra/lockscreen/index.html">
+      <publishTime>04/04/2014 11:25:09</publishTime>
+    </File>
+    <File Include="Styles/neon-x/extra/login/index.html">
+      <publishTime>04/04/2014 11:25:09</publishTime>
+    </File>
+    <File Include="Styles/neon-x/extra/portlets/index.html">
+      <publishTime>04/04/2014 11:25:09</publishTime>
+    </File>
+    <File Include="Styles/neon-x/extra/scrollbox/index.html">
+      <publishTime>04/04/2014 11:25:09</publishTime>
+    </File>
+    <File Include="Styles/neon-x/extra/tocify/index.html">
+      <publishTime>04/04/2014 11:25:09</publishTime>
+    </File>
+    <File Include="Styles/neon-x/extra/vector-maps/index.html">
+      <publishTime>04/04/2014 11:25:09</publishTime>
+    </File>
+    <File Include="Styles/neon-x/forms/advanced/index.html">
+      <publishTime>04/04/2014 11:25:09</publishTime>
+    </File>
+    <File Include="Styles/neon-x/forms/buttons/index.html">
+      <publishTime>04/04/2014 11:25:09</publishTime>
+    </File>
+    <File Include="Styles/neon-x/forms/file-upload/index.html">
+      <publishTime>04/04/2014 11:25:09</publishTime>
+    </File>
+    <File Include="Styles/neon-x/forms/main/index.html">
+      <publishTime>04/04/2014 11:25:09</publishTime>
+    </File>
+    <File Include="Styles/neon-x/forms/masks/index.html">
+      <publishTime>04/04/2014 11:25:09</publishTime>
+    </File>
+    <File Include="Styles/neon-x/forms/sliders/index.html">
+      <publishTime>04/04/2014 11:25:09</publishTime>
+    </File>
+    <File Include="Styles/neon-x/forms/validation/index.html">
+      <publishTime>04/04/2014 11:25:09</publishTime>
+    </File>
+    <File Include="Styles/neon-x/forms/wizard/index.html">
+      <publishTime>04/04/2014 11:25:09</publishTime>
+    </File>
+    <File Include="Styles/neon-x/forms/wysiwyg/index.html">
+      <publishTime>04/04/2014 11:25:09</publishTime>
+    </File>
+    <File Include="Styles/neon-x/index.html">
+      <publishTime>04/04/2014 11:25:09</publishTime>
+    </File>
+    <File Include="Styles/neon-x/layouts/chat-open/index.html">
+      <publishTime>04/04/2014 11:24:53</publishTime>
+    </File>
+    <File Include="Styles/neon-x/layouts/collapsed-sidebar/index.html">
+      <publishTime>04/04/2014 11:24:53</publishTime>
+    </File>
+    <File Include="Styles/neon-x/layouts/fixed-sidebar/index.html">
+      <publishTime>04/04/2014 11:24:53</publishTime>
+    </File>
+    <File Include="Styles/neon-x/layouts/horizontal-menu-boxed/index.html">
+      <publishTime>04/04/2014 11:24:52</publishTime>
+    </File>
+    <File Include="Styles/neon-x/layouts/horizontal-menu-fluid/index.html">
+      <publishTime>04/04/2014 11:24:52</publishTime>
+    </File>
+    <File Include="Styles/neon-x/layouts/layout-api/index.html">
+      <publishTime>04/04/2014 11:24:52</publishTime>
+    </File>
+    <File Include="Styles/neon-x/layouts/layout-horizontal-menu-chat/index.html">
+      <publishTime>04/04/2014 11:24:52</publishTime>
+    </File>
+    <File Include="Styles/neon-x/layouts/mixed-menus-collapsed/index.html">
+      <publishTime>04/04/2014 11:24:52</publishTime>
+    </File>
+    <File Include="Styles/neon-x/layouts/mixed-menus-logo-fit/index.html">
+      <publishTime>04/04/2014 11:24:53</publishTime>
+    </File>
+    <File Include="Styles/neon-x/layouts/mixed-menus/index.html">
+      <publishTime>04/04/2014 11:24:52</publishTime>
+    </File>
+    <File Include="Styles/neon-x/layouts/page-transition-fade-only/index.html">
+      <publishTime>04/04/2014 11:24:52</publishTime>
+    </File>
+    <File Include="Styles/neon-x/layouts/page-transition-fade/index.html">
+      <publishTime>04/04/2014 11:24:52</publishTime>
+    </File>
+    <File Include="Styles/neon-x/layouts/page-transition-left-in/index.html">
+      <publishTime>04/04/2014 11:24:52</publishTime>
+    </File>
+    <File Include="Styles/neon-x/layouts/page-transition-right-in/index.html">
+      <publishTime>04/04/2014 11:24:52</publishTime>
+    </File>
+    <File Include="Styles/neon-x/layouts/sidebar-chat-open/index.html">
+      <publishTime>04/04/2014 11:24:52</publishTime>
+    </File>
+    <File Include="Styles/neon-x/layouts/sidebar-static/index.html">
+      <publishTime>04/04/2014 11:24:52</publishTime>
+    </File>
+    <File Include="Styles/neon-x/mailbox/compose/index.html">
+      <publishTime>04/04/2014 11:25:10</publishTime>
+    </File>
+    <File Include="Styles/neon-x/mailbox/main/index.html">
+      <publishTime>04/04/2014 11:25:09</publishTime>
+    </File>
+    <File Include="Styles/neon-x/mailbox/message/index.html">
+      <publishTime>04/04/2014 11:25:09</publishTime>
+    </File>
+    <File Include="Styles/neon-x/tables/datatable/index.html">
+      <publishTime>04/04/2014 11:25:09</publishTime>
+    </File>
+    <File Include="Styles/neon-x/tables/main/index.html">
+      <publishTime>04/04/2014 11:25:09</publishTime>
+    </File>
+    <File Include="Styles/neon-x/ui/alerts/index.html">
+      <publishTime>04/04/2014 11:25:10</publishTime>
+    </File>
+    <File Include="Styles/neon-x/ui/blockquotes/index.html">
+      <publishTime>04/04/2014 11:25:10</publishTime>
+    </File>
+    <File Include="Styles/neon-x/ui/breadcrumbs/index.html">
+      <publishTime>04/04/2014 11:25:10</publishTime>
+    </File>
+    <File Include="Styles/neon-x/ui/modals/index.html">
+      <publishTime>04/04/2014 11:25:10</publishTime>
+    </File>
+    <File Include="Styles/neon-x/ui/navbars/index.html">
+      <publishTime>04/04/2014 11:25:10</publishTime>
+    </File>
+    <File Include="Styles/neon-x/ui/notifications/index.html">
+      <publishTime>04/04/2014 11:25:10</publishTime>
+    </File>
+    <File Include="Styles/neon-x/ui/pagination/index.html">
+      <publishTime>04/04/2014 11:25:10</publishTime>
+    </File>
+    <File Include="Styles/neon-x/ui/panels/index.html">
+      <publishTime>04/04/2014 11:25:10</publishTime>
+    </File>
+    <File Include="Styles/neon-x/ui/progress-bars/index.html">
+      <publishTime>04/04/2014 11:25:10</publishTime>
+    </File>
+    <File Include="Styles/neon-x/ui/tabs-accordions/index.html">
+      <publishTime>04/04/2014 11:25:10</publishTime>
+    </File>
+    <File Include="Styles/neon-x/ui/tiles/index.html">
+      <publishTime>04/04/2014 11:25:10</publishTime>
+    </File>
+    <File Include="Styles/neon-x/ui/tooltips-popovers/index.html">
+      <publishTime>04/04/2014 11:25:10</publishTime>
+    </File>
+    <File Include="Styles/neon-x/ui/typography/index.html">
+      <publishTime>04/04/2014 11:25:10</publishTime>
+    </File>
+    <File Include="Styles/newDash/main.css">
+      <publishTime>08/08/2013 02:00:00</publishTime>
+    </File>
+    <File Include="Styles/newDash/normalize.css">
+      <publishTime>08/08/2013 02:00:00</publishTime>
+    </File>
+    <File Include="Styles/QuotationDetailsStyleSheet.css">
+      <publishTime>06/25/2015 16:29:37</publishTime>
+    </File>
+    <File Include="Styles/snow.css">
+      <publishTime>12/21/2016 11:40:27</publishTime>
+    </File>
+    <File Include="Styles/snowman.css">
+      <publishTime>12/21/2016 12:29:55</publishTime>
+    </File>
+    <File Include="Styles/TableStyle.css">
+      <publishTime>02/08/2016 13:29:42</publishTime>
+    </File>
+    <File Include="Styles/unslider.css">
+      <publishTime>08/28/2016 02:41:38</publishTime>
+    </File>
+    <File Include="TestSSRS/WebForm1.aspx">
+      <publishTime>04/04/2014 11:25:15</publishTime>
+    </File>
+    <File Include="Views/BookManagement/BookManager.aspx">
+      <publishTime>06/10/2016 12:55:56</publishTime>
+    </File>
+    <File Include="Views/BookManagement/BookSerialNoManager.aspx">
+      <publishTime>11/21/2016 11:03:01</publishTime>
+    </File>
+    <File Include="Views/BookManagement/CertificateIssue.aspx">
+      <publishTime>09/20/2016 13:37:16</publishTime>
+    </File>
+    <File Include="Views/BookManagement/CertificateManager.aspx">
+      <publishTime>09/20/2016 12:02:08</publishTime>
+    </File>
+    <File Include="Views/BookManagement/CoverNoteBookRequest.aspx">
+      <publishTime>11/17/2016 14:36:02</publishTime>
+    </File>
+    <File Include="Views/BookManagement/CoverNoteBookRequestApproval.aspx">
+      <publishTime>11/17/2016 14:43:03</publishTime>
+    </File>
+    <File Include="Views/BookManagement/DocUpload/DocumentList.aspx">
+      <publishTime>02/09/2016 14:05:06</publishTime>
+    </File>
+    <File Include="Views/BookManagement/DocUpload/DocumentUploader.aspx">
+      <publishTime>06/09/2016 12:35:16</publishTime>
+    </File>
+    <File Include="Views/BookManagement/DocUpload/DocumentViewer.aspx">
+      <publishTime>02/09/2016 14:03:53</publishTime>
+    </File>
+    <File Include="Views/BookManagement/ReportCoverNoteBookDetails.aspx">
+      <publishTime>03/10/2016 10:26:45</publishTime>
+    </File>
+    <File Include="Views/BookManagement/ReportIssuedCertificate.aspx">
+      <publishTime>09/14/2016 12:45:52</publishTime>
+    </File>
+    <File Include="Views/Common/CreditCalculate.aspx">
+      <publishTime>01/13/2016 17:08:23</publishTime>
+    </File>
+    <File Include="Views/Common/DocumentUploader.aspx">
+      <publishTime>06/09/2015 14:22:33</publishTime>
+    </File>
+    <File Include="Views/Common/DocumentViewer.aspx">
+      <publishTime>06/09/2015 12:11:44</publishTime>
+    </File>
+    <File Include="Views/Common/DocumentViewerAndEditor.aspx">
+      <publishTime>03/08/2015 10:50:19</publishTime>
+    </File>
+    <File Include="Views/Common/ImageThumbnail.aspx">
+      <publishTime>09/18/2015 16:29:43</publishTime>
+    </File>
+    <File Include="Views/Common/JobFollowup.aspx">
+      <publishTime>10/15/2015 11:20:18</publishTime>
+    </File>
+    <File Include="Views/Common/JobList.aspx">
+      <publishTime>01/21/2016 09:46:38</publishTime>
+    </File>
+    <File Include="Views/Common/NotScannedYetJobs.aspx">
+      <publishTime>05/22/2018 14:26:03</publishTime>
+    </File>
+    <File Include="Views/Common/RejectedJobList.aspx">
+      <publishTime>01/26/2016 15:27:02</publishTime>
+    </File>
+    <File Include="Views/Common/TCSDataEditor.aspx">
+      <publishTime>03/07/2016 12:41:12</publishTime>
+    </File>
+    <File Include="Views/Common/TCSDocumentsViewer.aspx">
+      <publishTime>10/15/2015 10:52:42</publishTime>
+    </File>
+    <File Include="Views/Common/TCSDocViewPanel.aspx">
+      <publishTime>09/25/2015 15:32:36</publishTime>
+    </File>
+    <File Include="Views/Common/UnknownDocs.aspx">
+      <publishTime>01/26/2016 11:05:34</publishTime>
+    </File>
+    <File Include="Views/Dashboards/01.jpg">
+      <publishTime>05/14/2015 16:15:02</publishTime>
+    </File>
+    <File Include="Views/Dashboards/02.jpg">
+      <publishTime>05/14/2015 16:15:02</publishTime>
+    </File>
+    <File Include="Views/Dashboards/03.jpg">
+      <publishTime>05/14/2015 16:15:03</publishTime>
+    </File>
+    <File Include="Views/Dashboards/ActiveJobsDashboard.aspx">
+      <publishTime>03/09/2018 08:45:37</publishTime>
+    </File>
+    <File Include="Views/Dashboards/back.aspx">
+      <publishTime>09/22/2016 12:09:51</publishTime>
+    </File>
+    <File Include="Views/Dashboards/BranchDashBoardView.aspx">
+      <publishTime>09/11/2015 21:01:09</publishTime>
+    </File>
+    <File Include="Views/Dashboards/DashBoards.html">
+      <publishTime>01/24/2017 16:04:32</publishTime>
+    </File>
+    <File Include="Views/Dashboards/images/.DS_Store">
+      <publishTime>09/11/2013 21:39:30</publishTime>
+    </File>
+    <File Include="Views/Dashboards/images/noise_light-grey.jpg">
+      <publishTime>05/11/2012 21:14:48</publishTime>
+    </File>
+    <File Include="Views/Dashboards/images/pri_001.jpg">
+      <publishTime>09/11/2013 06:18:52</publishTime>
+    </File>
+    <File Include="Views/Dashboards/images/pri_002.jpg">
+      <publishTime>09/11/2013 06:18:42</publishTime>
+    </File>
+    <File Include="Views/Dashboards/images/pri_003.jpg">
+      <publishTime>09/11/2013 06:16:12</publishTime>
+    </File>
+    <File Include="Views/Dashboards/images/pri_004.jpg">
+      <publishTime>09/11/2013 06:18:32</publishTime>
+    </File>
+    <File Include="Views/Dashboards/images/pri_005.jpg">
+      <publishTime>09/11/2013 06:18:22</publishTime>
+    </File>
+    <File Include="Views/Dashboards/images/pri_006.jpg">
+      <publishTime>09/11/2013 06:18:12</publishTime>
+    </File>
+    <File Include="Views/Dashboards/images/pri_007.jpg">
+      <publishTime>09/11/2013 06:18:02</publishTime>
+    </File>
+    <File Include="Views/Dashboards/images/pri_008.jpg">
+      <publishTime>09/11/2013 06:16:36</publishTime>
+    </File>
+    <File Include="Views/Dashboards/images/pri_009.jpg">
+      <publishTime>09/11/2013 06:16:48</publishTime>
+    </File>
+    <File Include="Views/Dashboards/images/pri_010.jpg">
+      <publishTime>09/11/2013 06:16:26</publishTime>
+    </File>
+    <File Include="Views/Dashboards/images/pri_011.jpg">
+      <publishTime>09/11/2013 06:16:02</publishTime>
+    </File>
+    <File Include="Views/Dashboards/images/pri_012.jpg">
+      <publishTime>09/11/2013 06:15:50</publishTime>
+    </File>
+    <File Include="Views/Dashboards/JobStatusDashboard.aspx">
+      <publishTime>06/08/2016 11:08:59</publishTime>
+    </File>
+    <File Include="Views/Dashboards/MainDashboard.aspx">
+      <publishTime>05/22/2018 14:24:42</publishTime>
+    </File>
+    <File Include="Views/Dashboards/MainDashboardBkp.aspx">
+      <publishTime>03/02/2016 10:58:46</publishTime>
+    </File>
+    <File Include="Views/Dashboards/NewMainDashboard.aspx">
+      <publishTime>03/02/2016 12:30:09</publishTime>
+    </File>
+    <File Include="Views/Dashboards/photos/0.jpg">
+      <publishTime>11/23/2015 15:43:24</publishTime>
+    </File>
+    <File Include="Views/Dashboards/photos/103.jpg">
+      <publishTime>11/23/2015 15:43:24</publishTime>
+    </File>
+    <File Include="Views/Dashboards/photos/11.jpg">
+      <publishTime>11/23/2015 15:43:24</publishTime>
+    </File>
+    <File Include="Views/Dashboards/photos/147.jpg">
+      <publishTime>11/23/2015 15:43:24</publishTime>
+    </File>
+    <File Include="Views/Dashboards/photos/181.jpg">
+      <publishTime>11/23/2015 15:43:24</publishTime>
+    </File>
+    <File Include="Views/Dashboards/photos/192.jpg">
+      <publishTime>11/23/2015 15:43:24</publishTime>
+    </File>
+    <File Include="Views/Dashboards/photos/243.jpg">
+      <publishTime>11/23/2015 15:43:24</publishTime>
+    </File>
+    <File Include="Views/Dashboards/photos/314.jpg">
+      <publishTime>11/23/2015 15:43:24</publishTime>
+    </File>
+    <File Include="Views/Dashboards/photos/387.jpg">
+      <publishTime>11/23/2015 15:43:24</publishTime>
+    </File>
+    <File Include="Views/Dashboards/photos/40049.jpg">
+      <publishTime>11/23/2015 15:43:24</publishTime>
+    </File>
+    <File Include="Views/Dashboards/photos/40051.jpg">
+      <publishTime>11/23/2015 15:43:24</publishTime>
+    </File>
+    <File Include="Views/Dashboards/photos/40072.jpg">
+      <publishTime>11/23/2015 15:43:24</publishTime>
+    </File>
+    <File Include="Views/Dashboards/photos/40076.jpg">
+      <publishTime>11/23/2015 15:43:24</publishTime>
+    </File>
+    <File Include="Views/Dashboards/photos/40078.jpg">
+      <publishTime>11/23/2015 15:43:24</publishTime>
+    </File>
+    <File Include="Views/Dashboards/photos/40104.jpg">
+      <publishTime>11/23/2015 15:43:24</publishTime>
+    </File>
+    <File Include="Views/Dashboards/photos/40123.jpg">
+      <publishTime>11/23/2015 15:43:24</publishTime>
+    </File>
+    <File Include="Views/Dashboards/photos/40128.jpg">
+      <publishTime>11/23/2015 15:43:24</publishTime>
+    </File>
+    <File Include="Views/Dashboards/photos/40130.jpg">
+      <publishTime>11/23/2015 15:43:24</publishTime>
+    </File>
+    <File Include="Views/Dashboards/photos/40131.jpg">
+      <publishTime>11/23/2015 15:43:24</publishTime>
+    </File>
+    <File Include="Views/Dashboards/photos/40132.jpg">
+      <publishTime>11/23/2015 15:43:24</publishTime>
+    </File>
+    <File Include="Views/Dashboards/photos/40135.jpg">
+      <publishTime>11/23/2015 15:43:24</publishTime>
+    </File>
+    <File Include="Views/Dashboards/photos/40141.jpg">
+      <publishTime>11/23/2015 15:43:24</publishTime>
+    </File>
+    <File Include="Views/Dashboards/photos/40142.jpg">
+      <publishTime>11/23/2015 15:43:24</publishTime>
+    </File>
+    <File Include="Views/Dashboards/photos/62.jpg">
+      <publishTime>11/23/2015 15:43:24</publishTime>
+    </File>
+    <File Include="Views/Dashboards/photos/63.jpg">
+      <publishTime>11/23/2015 15:43:24</publishTime>
+    </File>
+    <File Include="Views/Dashboards/photos/67.jpg">
+      <publishTime>11/23/2015 15:43:24</publishTime>
+    </File>
+    <File Include="Views/Dashboards/photos/7.jpg">
+      <publishTime>11/23/2015 15:43:24</publishTime>
+    </File>
+    <File Include="Views/Dashboards/photos/proc_unit.jpg">
+      <publishTime>11/24/2015 09:56:44</publishTime>
+    </File>
+    <File Include="Views/Dashboards/photos/scruti_unit.jpg">
+      <publishTime>11/24/2015 09:57:48</publishTime>
+    </File>
+    <File Include="Views/Dashboards/photos/valid_unit.jpg">
+      <publishTime>11/24/2015 09:58:21</publishTime>
+    </File>
+    <File Include="Views/Dashboards/UserSummaryDashboard.aspx">
+      <publishTime>09/30/2015 17:36:59</publishTime>
+    </File>
+    <File Include="Views/Dashboards/UserSummaryDashboard2.aspx">
+      <publishTime>10/20/2015 17:23:12</publishTime>
+    </File>
+    <File Include="Views/Dashboards/UserSummaryDashboardNew.aspx">
+      <publishTime>11/27/2015 10:14:11</publishTime>
+    </File>
+    <File Include="Views/ITWorkflow/UserRequestForm.aspx">
+      <publishTime>04/04/2014 11:23:33</publishTime>
+    </File>
+    <File Include="Views/ITWorkflow/UserRequestView.aspx">
+      <publishTime>04/04/2014 11:23:33</publishTime>
+    </File>
+    <File Include="Views/MNBNewBusinessWF/BlacklistPolicy.aspx">
+      <publishTime>07/11/2017 17:14:36</publishTime>
+    </File>
+    <File Include="Views/MNBNewBusinessWF/CallCenterView.aspx">
+      <publishTime>09/30/2015 09:44:28</publishTime>
+    </File>
+    <File Include="Views/MNBNewBusinessWF/CancellationDocUploadOtherBranchView.aspx">
+      <publishTime>04/08/2015 13:24:22</publishTime>
+    </File>
+    <File Include="Views/MNBNewBusinessWF/CancellationView.aspx">
+      <publishTime>11/17/2016 15:55:06</publishTime>
+    </File>
+    <File Include="Views/MNBNewBusinessWF/CentralizeUserMgt.aspx">
+      <publishTime>07/19/2017 10:38:38</publishTime>
+    </File>
+    <File Include="Views/MNBNewBusinessWF/CreditControll.aspx">
+      <publishTime>01/27/2016 13:29:56</publishTime>
+    </File>
+    <File Include="Views/MNBNewBusinessWF/DashBoardView.aspx">
+      <publishTime>11/25/2016 16:04:07</publishTime>
+    </File>
+    <File Include="Views/MNBNewBusinessWF/EndorsementView.aspx">
+      <publishTime>08/31/2017 16:47:18</publishTime>
+    </File>
+    <File Include="Views/MNBNewBusinessWF/JobFileManager.aspx">
+      <publishTime>04/26/2016 11:29:27</publishTime>
+    </File>
+    <File Include="Views/MNBNewBusinessWF/JobHandlerView.aspx">
+      <publishTime>02/10/2015 13:19:15</publishTime>
+    </File>
+    <File Include="Views/MNBNewBusinessWF/NewBusinessFastTrack.aspx">
+      <publishTime>06/29/2017 10:53:11</publishTime>
+    </File>
+    <File Include="Views/MNBNewBusinessWF/NewBusinessFastTrackTaka.aspx">
+      <publishTime>07/20/2017 13:23:04</publishTime>
+    </File>
+    <File Include="Views/MNBNewBusinessWF/PrioritizeView.aspx">
+      <publishTime>08/11/2015 16:50:56</publishTime>
+    </File>
+    <File Include="Views/MNBNewBusinessWF/ProcessValidatorView.aspx">
+      <publishTime>06/29/2017 15:05:38</publishTime>
+    </File>
+    <File Include="Views/MNBNewBusinessWF/ProcessValidatorViewForCredit.aspx">
+      <publishTime>01/27/2016 09:45:25</publishTime>
+    </File>
+    <File Include="Views/MNBNewBusinessWF/ProcessView.aspx">
+      <publishTime>11/18/2016 15:29:52</publishTime>
+    </File>
+    <File Include="Views/MNBNewBusinessWF/ProposalUploadView.aspx">
+      <publishTime>06/09/2015 12:21:07</publishTime>
+    </File>
+    <File Include="Views/MNBNewBusinessWF/QuotationDetailsView.aspx">
+      <publishTime>06/26/2015 10:00:32</publishTime>
+    </File>
+    <File Include="Views/MNBNewBusinessWF/RenewalView.aspx">
+      <publishTime>08/31/2017 16:47:22</publishTime>
+    </File>
+    <File Include="Views/MNBNewBusinessWF/RenewDocUploadOtherBranchView.aspx">
+      <publishTime>07/29/2015 13:53:38</publishTime>
+    </File>
+    <File Include="Views/MNBNewBusinessWF/ScrutinizationView.aspx">
+      <publishTime>05/16/2017 13:29:30</publishTime>
+    </File>
+    <File Include="Views/MNBNewBusinessWF/SearchQuotation.aspx">
+      <publishTime>06/09/2015 11:31:13</publishTime>
+    </File>
+    <File Include="Views/MNBNewBusinessWF/SearchQuotationTakaful.aspx">
+      <publishTime>07/20/2017 13:22:03</publishTime>
+    </File>
+    <File Include="Views/MNBNewBusinessWF/SearchTCSPolicy.aspx">
+      <publishTime>11/17/2016 15:38:26</publishTime>
+    </File>
+    <File Include="Views/MNBNewBusinessWF/SearchTCSPolicyDebit.aspx">
+      <publishTime>09/03/2015 16:19:53</publishTime>
+    </File>
+    <File Include="Views/MNBNewBusinessWF/SearchTCSQuoteNo.aspx">
+      <publishTime>06/28/2017 13:32:38</publishTime>
+    </File>
+    <File Include="Views/MNBNewBusinessWF/SearchUser.aspx">
+      <publishTime>07/19/2017 10:34:44</publishTime>
+    </File>
+    <File Include="Views/MNBNewBusinessWF/TCSPreviousPolicies.aspx">
+      <publishTime>09/20/2016 15:39:27</publishTime>
+    </File>
+    <File Include="Views/MNBNewBusinessWF/TempCRCPage.aspx">
+      <publishTime>06/17/2015 12:55:45</publishTime>
+    </File>
+    <File Include="Views/MNBNewBusinessWF/testpage.aspx">
+      <publishTime>01/25/2016 17:08:18</publishTime>
+    </File>
+    <File Include="Views/MNBNewBusinessWF/TimeRangeJobReport.aspx">
+      <publishTime>07/21/2017 11:24:56</publishTime>
+    </File>
+    <File Include="Views/Reports/DailyJobSummary.aspx">
+      <publishTime>02/02/2016 11:18:10</publishTime>
+    </File>
+    <File Include="Views/RuleBase/BlocklyFrame.aspx">
+      <publishTime>04/07/2014 12:36:00</publishTime>
+    </File>
+    <File Include="Views/RuleBase/list.png">
+      <publishTime>04/07/2014 16:34:41</publishTime>
+    </File>
+    <File Include="Views/RuleBase/StyleSheet1.css">
+      <publishTime>04/07/2014 16:35:29</publishTime>
+    </File>
+    <File Include="Views/RuleBase/WebForm1.aspx">
+      <publishTime>04/07/2014 13:48:28</publishTime>
+    </File>
+    <File Include="Views/RuleBase/WebForm2.aspx">
+      <publishTime>04/07/2014 11:26:27</publishTime>
+    </File>
+    <File Include="Views/RuleBase/WebForm3.aspx">
+      <publishTime>04/07/2014 12:33:31</publishTime>
+    </File>
+    <File Include="Views/RuleBase/WebForm4.aspx">
+      <publishTime>04/07/2014 13:34:46</publishTime>
+    </File>
+    <File Include="Views/RuleBase/WebForm5.aspx">
+      <publishTime>04/08/2014 13:46:33</publishTime>
+    </File>
+    <File Include="Web.config">
+      <publishTime>07/06/2018 11:31:07</publishTime>
+    </File>
+  </ItemGroup>
+</Project>
